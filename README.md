@@ -18,9 +18,11 @@ This repository is used to maintain slides and related materials for the reinfor
 
 If you use RL_Tutorial  in your work, please cite us:
 
+```bibtex
 @article{huangshiyu2023rl,
     title={Reinforcement Learning Tutorial},
     author={Shiyu Huang},
     year={2023},
     howpublished={\url{https://github.com/OpenRL-Lab/RL_Tutorial}},
 }
+```
